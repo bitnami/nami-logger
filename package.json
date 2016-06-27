@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Custom Logger",
   "main": "index.js",
+  "repository": {
+    "type" : "git", "url" : "https://github.com/bitnami/nami-logger.git"
+  },
   "scripts": {
     "test": "gulp test",
     "lint": "gulp lint",
