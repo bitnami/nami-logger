@@ -1,6 +1,6 @@
 {
   "name": "nami-logger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Custom Logger",
   "main": "index.js",
   "repository": {
@@ -20,7 +20,7 @@
   "license": "GPL-2.0",
   "dependencies": {
     "colors": "^1.1.2",
-    "lodash": "^4.17.20"
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "bitnami-gulp-common-tasks": "bitnami/gulp-common-tasks#v3.0.0",
