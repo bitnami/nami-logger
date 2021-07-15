@@ -23,7 +23,7 @@
     "lodash": "^4.17.21"
   },
   "devDependencies": {
-    "bitnami-gulp-common-tasks": "git+https://git@github.com/bitnami/gulp-common-tasks#v3.0.0",
+    "bitnami-gulp-common-tasks": "bitnami/gulp-common-tasks#v3.0.0",
     "eslint": "^6.5.1",
     "eslint-config-bitnami": "git+https://git@github.com/bitnami/eslint-config-bitnami#v1.0.0",
     "eslint-plugin-import": "^1.14.0",
